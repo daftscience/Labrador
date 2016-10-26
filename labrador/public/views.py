@@ -3,11 +3,11 @@
 from flask import Blueprint, flash, redirect, render_template, request, url_for
 from flask_login import login_required, login_user, logout_user
 
-from pifile.extensions import login_manager
-from pifile.public.forms import LoginForm
-from pifile.user.forms import RegisterForm
-from pifile.user.models import User
-from pifile.utils import flash_errors
+from labrador.extensions import login_manager
+from labrador.public.forms import LoginForm
+from labrador.user.forms import RegisterForm
+from labrador.user.models import User
+from labrador.utils import flash_errors
 
 blueprint = Blueprint('public', __name__, static_folder='../static')
 
