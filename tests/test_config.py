@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Test configs."""
-from pifile.app import create_app
-from pifile.settings import DevConfig, ProdConfig
+from labrador.app import create_app
+from labrador.settings import DevConfig, ProdConfig
 
 
 def test_production_config():
