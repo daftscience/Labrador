@@ -4,8 +4,8 @@ import datetime as dt
 
 from flask_login import UserMixin
 
-from pifile.database import Column, Model, SurrogatePK, db, reference_col, relationship
-from pifile.extensions import bcrypt
+from labrador.database import Column, Model, SurrogatePK, db, reference_col, relationship
+from labrador.extensions import bcrypt
 
 
 class Role(SurrogatePK, Model):
