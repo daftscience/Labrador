@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """Test forms."""
 
-from pifile.public.forms import LoginForm
-from pifile.user.forms import RegisterForm
+from labrador.public.forms import LoginForm
+from labrador.user.forms import RegisterForm
 
 
 class TestRegisterForm:
