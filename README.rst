@@ -1,5 +1,5 @@
 ===============================
-Pifile
+Labrador
 ===============================
 
 A flasky app.
@@ -13,18 +13,17 @@ add the following to ``.bashrc`` or ``.bash_profile``.
 
 .. code-block:: bash
 
-    export PIFILE_SECRET='something-really-secret'
+    export LABRADOR_SECRET='something-really-secret'
 
 Before running shell commands, set the ``FLASK_APP`` and ``FLASK_DEBUG``
 environment variables ::
 
     export FLASK_APP=/path/to/autoapp.py
     export FLASK_DEBUG=1
-
 Then run the following commands to bootstrap your environment ::
 
-    git clone https://github.com/daftscience/pifile
-    cd pifile
+    git clone https://github.com/daftscience/Labrador
+    cd Labrador
     pip install -r requirements/dev.txt
     bower install
     flask run
