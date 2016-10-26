@@ -3,8 +3,8 @@
 from factory import PostGenerationMethodCall, Sequence
 from factory.alchemy import SQLAlchemyModelFactory
 
-from pifile.database import db
-from pifile.user.models import User
+from labrador.database import db
+from labrador.user.models import User
 
 
 class BaseFactory(SQLAlchemyModelFactory):
