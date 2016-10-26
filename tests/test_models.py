@@ -4,7 +4,7 @@ import datetime as dt
 
 import pytest
 
-from pifile.user.models import Role, User
+from labrador.user.models import Role, User
 
 from .factories import UserFactory
 
