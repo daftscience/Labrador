@@ -2,10 +2,10 @@
 """The app module, containing the app factory function."""
 from flask import Flask, render_template
 
-from pifile import commands, public, user
-from pifile.assets import assets
-from pifile.extensions import bcrypt, cache, csrf_protect, db, debug_toolbar, login_manager, migrate
-from pifile.settings import ProdConfig
+from labrador import commands, public, user
+from labrador.assets import assets
+from labrador.extensions import bcrypt, cache, csrf_protect, db, debug_toolbar, login_manager, migrate
+from labrador.settings import ProdConfig
 
 
 def create_app(config_object=ProdConfig):
