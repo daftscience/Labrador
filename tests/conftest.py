@@ -4,9 +4,9 @@
 import pytest
 from webtest import TestApp
 
-from pifile.app import create_app
-from pifile.database import db as _db
-from pifile.settings import TestConfig
+from labrador.app import create_app
+from labrador.database import db as _db
+from labrador.settings import TestConfig
 
 from .factories import UserFactory
 
