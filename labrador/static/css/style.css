@@ -6,6 +6,8 @@
 
 html {
   overflow-y: scroll;
+  height:240px;
+  width:360px;
 }
 
 body {
