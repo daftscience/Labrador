@@ -4,13 +4,9 @@ from gpiozero import Button
 def update():
     print("Update")
 
-class GPIO_Buttons:
-    def __init__(self, pin, callback=None):
-        self.b = Button(pin)
-        self.b.when_released = callback
-
-
-update = GPIO_Buttons(17, update)
+update = Button(17)
+update.hold_time = 7
+update.when_held = update()
 
 while True:
     pass
