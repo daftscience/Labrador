@@ -8,6 +8,7 @@ class keyboard:
         uinput.KEY_L,
         uinput.KEY_O,
     ])
-   @staticmethod
-   def f_five(key):
-		device.emit_click(uinput.KEY_H)
+
+    @staticmethod
+    def f_five(key):
+        device.emit_click(uinput.KEY_H)
