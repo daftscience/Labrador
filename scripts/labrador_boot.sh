@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# sudo update-rc.d /etc/init.d/labrador_boot.sh defaults
-
-su pi
+# sudo systemctl enable /home/pi/projects/labrador/scripts/labrador.service
+# sudo systemctl start labrador.service
 cd /home/pi/projects/labrador
 git pull
 
