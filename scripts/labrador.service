@@ -1,12 +1,11 @@
-# pitft_buttons service file, start a daemon on startup
-# file: /etc/systemd/system/pitft_buttons.service
-
 [Unit]
-Description=Start PiTFT buttons daemon
+Description=Labrador Update
+Before=systemd-user-sessions.service
+
 
 [Service]
-RemainAfterExit=true
-ExecStart=/usr/bin/python -u /home/pi/projects/labrador/scripts/gpio_functions.py
+Type=idle
+ExecStart=/usr/bin/python3 -u /home/pi/projects/labrador/scripts/gpio_functions.py
 
 [Install]
 WantedBy=multi-user.target
