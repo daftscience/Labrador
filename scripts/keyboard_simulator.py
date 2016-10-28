@@ -12,4 +12,5 @@ class keyboard:
 
     @classmethod
     def f_five(cls, key):
+        print("f5")
         cls.DEVICE.emit_click(uinput.KEY_FN_F5)
