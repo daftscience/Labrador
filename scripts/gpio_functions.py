@@ -1,7 +1,7 @@
 from gpiozero import Button
 import git
 import subprocess
-from .keyboard_simulator import keyboard
+from keyboard_simulator import keyboard
 
 GIT_PATH = '/home/pi/projects/labrador/'
 restart_supervisor = "supervisorctl reload"
