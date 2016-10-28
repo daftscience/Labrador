@@ -1,10 +1,19 @@
 from gpiozero import Button
-button = Button(17)
+
+
+def update():
+    print("Update")
+
+class GPIO_Buttons:
+    def __init__(self, pin, callback=none):
+        self.b = Button(pin)
+        self.b.when_released = callback
+
+
+update = GPIO_Buttons(17, update)
+
 while True:
-    if button.is_pressed:
-        print("Button is pressed")
-    else:
-        print("Button is not pressed")
+    pass
 
 
 # channel_list = [17, 22, 23, 27]
