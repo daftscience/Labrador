@@ -1,9 +1,12 @@
 [Unit]
 Description=Labrador Update
-Wants=network-online.target
-After=network-online.target
+Before=systemd-user-sessions.service
+
 
 [Service]
 Type=idle
 ExecStart=/home/pi/projects/labrador/scripts/labrador_boot.sh > /home/pi/projects/labrador/boot.log 2>&1
+User=pi
 
+[Install]
+WantedBy=multi-user.target
