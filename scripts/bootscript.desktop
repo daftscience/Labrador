@@ -1,5 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=Labrador Init
-Comments=Initial Startup Script
-Exec=/home/pi/projects/labrador/scripts/system_scripts/boot_commands.sh
