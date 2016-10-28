@@ -1,0 +1,10 @@
+[Unit]
+Description=Labrador Update
+After=multi-user.target
+
+[Service]
+Type=idle
+ExecStart=/home/pi/projects/labrador/scripts/labrador_boot.sh
+
+[Install]
+WantedBy=multi-user.target
