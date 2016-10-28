@@ -1,11 +1,11 @@
 from gpiozero import Button
 import git
 
-
+GIT_PATH = '/home/pi/projects/labrador/'
 
 def update():
     print("Update")
-    g = git.cmd.Git('/home/pi/projects/labrador/')
+    g = git.cmd.Git(GIT_PATH)
     g.pull()
 
 update_btn = Button(17)
