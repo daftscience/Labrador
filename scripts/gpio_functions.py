@@ -10,7 +10,7 @@ def update():
     print("Update")
     g = git.cmd.Git(GIT_PATH)
     g.pull()
-    process = subprocess.Popen(bashCommand.split(), stdout=subprocess.PIPE)
+    process = subprocess.Popen(restart_supervisor.split(), stdout=subprocess.PIPE)
     output, error = process.communicate()
     print(output)
 
