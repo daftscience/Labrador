@@ -7,6 +7,7 @@ class keyboard:
         uinput.KEY_H,
         uinput.KEY_L,
         uinput.KEY_O,
+        uinput.KEY_FN_F
     ])
 
     @classmethod
