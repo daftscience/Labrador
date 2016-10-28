@@ -6,7 +6,9 @@ import os
 class Config(object):
     """Base configuration."""
 
-    SECRET_KEY = os.environ.get('LABRADOR_SECRET', 'secret-key')  # TODO: Change me
+    SECRET_KEY = os.environ.get(
+        'LABRADOR_SECRET',
+        'secret-key')  # TODO: Change me
     APP_DIR = os.path.abspath(os.path.dirname(__file__))  # This directory
     PROJECT_ROOT = os.path.abspath(os.path.join(APP_DIR, os.pardir))
     BCRYPT_LOG_ROUNDS = 13
@@ -35,7 +37,8 @@ class DevConfig(Config):
     # Put the db file in project root
     DB_PATH = os.path.join(Config.PROJECT_ROOT, DB_NAME)
     SQLALCHEMY_DATABASE_URI = 'sqlite:///{0}'.format(DB_PATH)
-    DEBUG_TB_ENABLED = True
+    DEBUG_TB_ENABLED = False
+    SASS_DEBUG_INFO = False
     ASSETS_DEBUG = True  # Don't bundle/minify static assets
     CACHE_TYPE = 'simple'  # Can be "memcached", "redis", etc.
 
@@ -46,5 +49,6 @@ class TestConfig(Config):
     TESTING = True
     DEBUG = True
     SQLALCHEMY_DATABASE_URI = 'sqlite://'
-    BCRYPT_LOG_ROUNDS = 4  # For faster tests; needs at least 4 to avoid "ValueError: Invalid rounds"
+    # For faster tests; needs at least 4 to avoid "ValueError: Invalid rounds"
+    BCRYPT_LOG_ROUNDS = 4
     WTF_CSRF_ENABLED = False  # Allows form testing

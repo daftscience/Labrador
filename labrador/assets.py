@@ -3,18 +3,17 @@
 from flask_assets import Bundle, Environment
 
 css = Bundle(
-    'libs/bootstrap/dist/css/bootstrap.css',
-    'css/style.css',
-    filters='cssmin',
-    output='public/css/common.css'
+    'scss/theme.css',
+    filters='cssmin'
 )
 
 js = Bundle(
     'libs/jQuery/dist/jquery.js',
-    'libs/bootstrap/dist/js/bootstrap.js',
-    'js/plugins.js',
+    'libs/materialize/bin/materialize.js',
+    'libs/jquery-touchswipe/jquery.touchSwipe.js',
+    'js/script.js',
     filters='jsmin',
-    output='public/js/common.js'
+    output='js/common.js'
 )
 
 assets = Environment()
