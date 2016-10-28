@@ -5,7 +5,7 @@ def update():
     print("Update")
 
 class GPIO_Buttons:
-    def __init__(self, pin, callback=none):
+    def __init__(self, pin, callback=None):
         self.b = Button(pin)
         self.b.when_released = callback
 
