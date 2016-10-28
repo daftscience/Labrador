@@ -6,7 +6,7 @@ def update():
 
 update = Button(17)
 update.hold_time = 7
-update.when_held = update()
+update.when_held = update
 
 while True:
     pass
