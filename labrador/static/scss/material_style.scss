@@ -1,0 +1,41 @@
+@import '../libs/materialize/sass/components/_color.scss';
+@import '_amelia_variables.scss';
+
+
+@each $alert_class, $color in $alerts {
+    .material-icons.#{$alert_class} {
+        @extend .#{$color}-text, .text-darken-4;
+        border-color: color($color, "darken-1");
+        -webkit-text-fill-color: color($color, "lighten-1"); /* Will override color (regardless of order) */
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: color($color, "darken-4");
+    }
+}
+
+.material-icons{
+    margin: auto !important;
+    margin-bottom: 0;
+    // display:block;
+}
+
+
+/* Rules for sizing the icon. */
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+/* Rules for using icons as black on a light background. */
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+/* Rules for using icons as white on a dark background. */
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+.material-icons.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
+
+
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+.material-icons.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }

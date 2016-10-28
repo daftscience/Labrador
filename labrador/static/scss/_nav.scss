@@ -1,0 +1,12 @@
+.nav-wrapper{
+    .button-collapse{
+        @extend .hide-on-med-and-up
+    }
+    #nav-mobile{
+        @extend .hide-on-small-only;
+        @extend .hide-on-small-only;
+        .nav-title{
+            @extend .hide-on-med-and-down;
+        }
+    }
+}

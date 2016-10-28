@@ -1,0 +1,100 @@
+
+.item-container{
+  @extend .z-depth-1;
+  @extend .bordered-container;
+}
+
+.wide-container{
+  margin-left:  1em !important;
+  margin-right:  1em !important;
+}
+
+.collapse-container{
+  @extend .wide-container;
+}
+
+.table-container{
+  background-color: color('blue-grey', 'lighten-5');
+  padding-bottom: 3rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  opacity: 1;
+  tr{
+    td{
+      padding:.25rem;
+    }
+  }
+  .row{
+      padding:.25rem;
+  }
+}
+
+.button-container{
+  padding:.1rem;
+  margin:.1rem;
+}
+
+@mixin aspect-ratio($w, $h, $scale:100%) {
+  width: $scale !important;
+  height: ($w/$h) * $scale !important;
+}
+
+.sixteen-nine{
+  @include aspect-ratio(16, 9, 90%);
+}
+
+.twentyone-nine{
+  @include aspect-ratio(21, 9, 90%);
+}
+
+.four-three{
+  @include aspect-ratio(4, 3, 40%);
+}
+
+.one-one{
+  @include aspect-ratio(1, 1, 40%);
+}
+.two-one{
+  @include aspect-ratio(2, 1, 50%);
+}
+
+.project-link{
+  @extend .themed-link;
+  & > .card{
+    &:hover{
+      @extend .z-depth-3;
+
+    }
+  }
+}
+
+
+.fit-chart{
+  position: relative;
+  overflow:hidden;
+  margin:auto;
+    >div{
+      overflow:hidden;
+      width:100% !important;
+      height:100% !important;
+    }
+  }
+  .chart-container{
+    .progress{
+      width: 90%;
+      height:.7rem;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top:0;
+      margin-bottom:2rem;
+      background-color: color($secondary, 'lighten-5');
+    }
+    & > .small-chart{
+      @extend .two-one;
+      @extend .fit-chart;
+    }
+    & > .large-chart {
+      @extend .sixteen-nine;
+      @extend .fit-chart;
+    }
+  }
