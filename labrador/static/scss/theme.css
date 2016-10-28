@@ -8651,4 +8651,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   overflow: visible;
   clip: auto; }
 
+* {
+  cursor: none; }
+
 /*# sourceMappingURL=theme.css.map */
