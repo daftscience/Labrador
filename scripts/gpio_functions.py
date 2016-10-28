@@ -22,8 +22,12 @@ update_btn.hold_time = 2
 update_btn.when_held = update
 
 
-other_button = Button(22)
-other_button.when_released = keyboard.f_five
+refresh_button = Button(22)
+refresh_button.when_released = keyboard.f_five
+
+
+test_button = Button(27)
+test_button.when_released = keyboard.test
 
 while True:
     pass
