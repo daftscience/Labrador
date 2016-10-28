@@ -15,7 +15,7 @@ def update():
     print(output)
 
 update_btn = Button(17)
-update_btn.hold_time = 7
+update_btn.hold_time = 2
 update_btn.when_held = update
 
 while True:
