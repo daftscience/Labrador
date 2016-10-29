@@ -7,13 +7,13 @@ class keyboard:
         uinput.KEY_H,
         uinput.KEY_L,
         uinput.KEY_O,
-        uinput.KEY_FN_F5
+        uinput.KEY_F5
     ])
 
     @classmethod
     def f_five(cls, key):
         print("f5")
-        cls.DEVICE.emit_click(uinput.KEY_FN_F5)
+        cls.DEVICE.emit_click(uinput.KEY_F5)
 
     @classmethod
     def test(cls, key):
