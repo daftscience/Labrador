@@ -20,13 +20,26 @@ class GPIO_HANDLER:
         cls.DEVICE.emit_click(uinput.KEY_F5)
 
     @classmethod
-    def update(cls):
-        cls.GIT.pull()
-        _process = Popen(
-            ['supervisorctl', 'reload'],
+    def restart_supervisor(cls):
+        _process = Popen(['supervisorctl', 'reload'], stdout=PIPE)
+        output, error = _process.communicate()
+        sleep(20)
+
+    @classmethod
+    def rebuild_css(cls):
+        _process = Popen([
+            'scss',
+            '/home/pi/scripts/labrador/labrador/static/scss/theme.scss',
+            'theme.css'],
             stdout=PIPE)
         output, error = _process.communicate()
-        sleep(10)
+        sleep(20)
+
+    @classmethod
+    def update(cls):
+        cls.GIT.pull()
+        cls.restart_supervisor()
+        cls.rebuild_css()
         cls.refresh()
 
 if __name__ == '__main__':
