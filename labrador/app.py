@@ -26,10 +26,10 @@ def create_app(config_object=ProdConfig):
 def register_extensions(app):
     """Register Flask extensions."""
     assets.init_app(app)
-    scss(app)
+    scss(app, static_dir='static', asset_dir='static/libs')
     bcrypt.init_app(app)
     cache.init_app(app)
-    db.init_app(app, static_dir='static', asset_dir='static/libs')
+    db.init_app(app)
     csrf_protect.init_app(app)
     login_manager.init_app(app)
     debug_toolbar.init_app(app)
