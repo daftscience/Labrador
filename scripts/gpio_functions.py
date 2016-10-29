@@ -33,7 +33,6 @@ class GPIO_HANDLER:
             'theme.css'],
             stdout=PIPE)
         output, error = _process.communicate()
-        sleep(20)
 
     @classmethod
     def update(cls):

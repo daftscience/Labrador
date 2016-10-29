@@ -3,8 +3,8 @@
 from flask_assets import Bundle, Environment
 
 css = Bundle(
-    'scss/theme.css',
-    filters='cssmin',
+    'scss/theme.scss',
+    filters='scss',
     output='js/common.css'
 )
 
