@@ -26,7 +26,7 @@ class GPIO_HANDLER:
             ['supervisorctl', 'reload'],
             stdout=PIPE)
         output, error = _process.communicate()
-        sleep(2)
+        sleep(10)
         cls.refresh()
 
 if __name__ == '__main__':
