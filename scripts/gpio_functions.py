@@ -10,6 +10,11 @@ restart_supervisor = "supervisorctl reload"
 
 class GPIO_HANDLER:
     GIT = git.cmd.Git(GIT_PATH)
+    DEVICE = uinput.Device([uinput.KEY_F5])
+
+    def refresh(self):
+        print("f5")
+        self.DEVICE.emit_click(uinput.KEY_F5)
 
     def update(self):
         self.GIT.pull()
@@ -18,7 +23,7 @@ class GPIO_HANDLER:
             stdout=PIPE)
         output, error = _process.communicate()
         sleep(2)
-        keyboard.refresh()
+        self.DEVICE.refresh()
 
 if __name__ == '__main__':
     update_btn = Button(17)
