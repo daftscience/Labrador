@@ -15,6 +15,7 @@ def update():
         restart_supervisor.split(),
         stdout=subprocess.PIPE)
     output, error = process.communicate()
+
     print(output)
 
 update_btn = Button(17)
