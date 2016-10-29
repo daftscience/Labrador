@@ -3,16 +3,16 @@
 from flask_assets import Bundle, Environment
 import os
 
-print(os.path.abspath(os.path.dirname(__file__)))
-
+print()
+root = os.path.abspath(os.path.dirname(__file__))
 css = Bundle(
-    'scss/theme.scss',
+    os.path.join(root, 'static', 'scss/theme.scss',
     filters='scss',
     output='css/common.css',
     depends='scss/*.scss'
 )
 
-js = Bundle(
+js=Bundle(
     'libs/jQuery/dist/jquery.js',
     'libs/materialize/bin/materialize.js',
     'libs/jquery-touchswipe/jquery.touchSwipe.js',
@@ -21,7 +21,7 @@ js = Bundle(
     output='js/common.js'
 )
 
-assets = Environment()
+assets=Environment()
 
 assets.register('js_all', js)
 assets.register('css_all', css)
