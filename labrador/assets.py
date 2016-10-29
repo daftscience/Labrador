@@ -5,7 +5,8 @@ from flask_assets import Bundle, Environment
 css = Bundle(
     'scss/theme.scss',
     filters='scss',
-    output='js/common.css'
+    output='css/common.css',
+    depends='scss/*.scss'
 )
 
 js = Bundle(
