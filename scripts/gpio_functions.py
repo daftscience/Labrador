@@ -25,11 +25,14 @@ class GPIO_HANDLER:
             stdout=PIPE)
         output, error = _process.communicate()
         sleep(2)
-        self.DEVICE.refresh()
+        self.refresh()
 
 if __name__ == '__main__':
     update_btn = Button(17)
     update_btn.when_released = GPIO_HANDLER.update
+
+    update_btn = Button(22)
+    update_btn.when_released = GPIO_HANDLER.refresh
 
     while True:
         pass
