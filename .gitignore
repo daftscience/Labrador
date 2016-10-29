@@ -19,8 +19,6 @@ lib
 lib64
 libs
 dev.db
-common.css
-common.js
 
 migrations
 

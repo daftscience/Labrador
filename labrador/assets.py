@@ -5,8 +5,8 @@ import os
 
 root = os.path.abspath(os.path.dirname(__file__))
 css = Bundle(
-    os.path.join(root, 'static', 'scss/theme.scss'),
-    filters='scss',
+    os.path.join(root, 'static', 'scss/theme.css'),
+    filters='css',
     output='css/common.css',
     depends='scss/*.scss'
 )
