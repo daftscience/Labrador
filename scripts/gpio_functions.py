@@ -3,6 +3,8 @@ import git
 from time import sleep
 from subprocess import Popen, PIPE
 from keyboard_simulator import keyboard
+import uinput
+
 
 GIT_PATH = '/home/pi/projects/labrador/'
 restart_supervisor = "supervisorctl reload"
