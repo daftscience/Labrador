@@ -29,7 +29,7 @@ class GPIO_HANDLER:
     def rebuild_css(cls):
         _process = Popen([
             'scss',
-            '/home/pi/scripts/labrador/labrador/static/scss/theme.scss',
+            '/home/pi/projects/labrador/labrador/static/scss/theme.scss',
             'theme.css'],
             stdout=PIPE)
         output, error = _process.communicate()
@@ -37,9 +37,13 @@ class GPIO_HANDLER:
 
     @classmethod
     def update(cls):
+        print("Pulling latest update")
         cls.GIT.pull()
-        cls.restart_supervisor()
+        print("Rebuilding CSS")
         cls.rebuild_css()
+        print("restarting Services")
+        cls.restart_supervisor()
+        print("refreshing")
         cls.refresh()
 
 if __name__ == '__main__':
