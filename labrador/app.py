@@ -4,7 +4,7 @@ from flask import Flask, render_template
 
 from labrador import commands, file, search, user
 from labrador.assets import assets
-from labrador.extensions import bcrypt, cache, csrf_protect, db, debug_toolbar, login_manager, migrate, scss
+from labrador.extensions import bcrypt, cache, csrf_protect, db, debug_toolbar, login_manager, migrate
 from labrador.settings import ProdConfig
 
 
@@ -26,7 +26,6 @@ def create_app(config_object=ProdConfig):
 def register_extensions(app):
     """Register Flask extensions."""
     assets.init_app(app)
-    scss(app, static_dir='static', asset_dir='static/libs')
     bcrypt.init_app(app)
     cache.init_app(app)
     db.init_app(app)

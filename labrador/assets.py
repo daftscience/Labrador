@@ -1,11 +1,8 @@
 # -*- coding: utf-8 -*-
 """Application assets."""
 from flask_assets import Bundle, Environment
-import os
-
-root = os.path.abspath(os.path.dirname(__file__))
 css = Bundle(
-    os.path.join(root, 'static', 'scss/theme.css'),
+    'scss/theme.css',
     filters='cssmin',
     output='css/common.css',
 )

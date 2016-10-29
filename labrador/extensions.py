@@ -7,7 +7,6 @@ from flask_login import LoginManager
 from flask_migrate import Migrate
 from flask_sqlalchemy import SQLAlchemy
 from flask_wtf.csrf import CsrfProtect
-from flask.ext.scss import Scss
 
 bcrypt = Bcrypt()
 csrf_protect = CsrfProtect()
@@ -16,4 +15,3 @@ db = SQLAlchemy()
 migrate = Migrate()
 cache = Cache()
 debug_toolbar = DebugToolbarExtension()
-scss = Scss
