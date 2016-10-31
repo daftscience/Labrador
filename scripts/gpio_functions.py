@@ -2,7 +2,6 @@ from gpiozero import Button
 import git
 from time import sleep
 from subprocess import Popen, PIPE
-from keyboard_simulator import keyboard
 import uinput
 
 
