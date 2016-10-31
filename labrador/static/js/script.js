@@ -6,6 +6,4 @@
          threshold:0
       });
 
-      Materialize.updateTextFields();
-
 }).call(this, jQuery, window);

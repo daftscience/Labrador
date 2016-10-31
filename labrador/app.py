@@ -7,6 +7,8 @@ from labrador.assets import assets
 from labrador.extensions import bcrypt, cache, csrf_protect, db, debug_toolbar, login_manager, migrate
 from labrador.settings import ProdConfig
 
+import os
+
 
 def create_app(config_object=ProdConfig):
     """An application factory, as explained here: http://flask.pocoo.org/docs/patterns/appfactories/.

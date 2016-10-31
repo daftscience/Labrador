@@ -1,9 +1,13 @@
 # -*- coding: utf-8 -*-
 """Application assets."""
 from flask_assets import Bundle, Environment
+
 css = Bundle(
-    'scss/theme.css',
-    filters='cssmin',
+    'scss/theme.scss',
+    'scss/material_theme.scss',
+    filters='scss',
+    # filters='cssmin',
+    depends = '**/*.scss',
     output='css/common.css',
 )
 
@@ -12,11 +16,12 @@ js = Bundle(
     'libs/materialize/bin/materialize.js',
     'libs/jquery-touchswipe/jquery.touchSwipe.js',
     'js/script.js',
-    filters='jsmin',
+    # filters='jsmin',
     output='js/common.js'
 )
 
 assets = Environment()
-
 assets.register('js_all', js)
 assets.register('css_all', css)
+
+

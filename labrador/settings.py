@@ -17,6 +17,10 @@ class Config(object):
     DEBUG_TB_INTERCEPT_REDIRECTS = False
     CACHE_TYPE = 'simple'  # Can be "memcached", "redis", etc.
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+    SASS_LOAD_PATHS = [
+        os.path.join(APP_DIR, 'static'),
+        os.path.join(APP_DIR, 'static', 'libs')
+        ]
 
 
 class ProdConfig(Config):
@@ -37,8 +41,8 @@ class DevConfig(Config):
     # Put the db file in project root
     DB_PATH = os.path.join(Config.PROJECT_ROOT, DB_NAME)
     SQLALCHEMY_DATABASE_URI = 'sqlite:///{0}'.format(DB_PATH)
-    DEBUG_TB_ENABLED = False
-    SASS_DEBUG_INFO = False
+    DEBUG_TB_ENABLED = True
+    SASS_DEBUG_INFO = True
     ASSETS_DEBUG = True  # Don't bundle/minify static assets
     CACHE_TYPE = 'simple'  # Can be "memcached", "redis", etc.
 
