@@ -50,5 +50,7 @@ docs/_build
 # Virtualenvs
 env/
 
+labrador\static\css\common.css
+labrador\static\js\common.js
 
 *.sublime*
