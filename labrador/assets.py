@@ -10,7 +10,7 @@ css = Bundle(
         depends='**/*.scss',
         output="css/material_theme.css"
     ),
-    'libs/material-design-icons/iconfont/material-icons.css'
+    'libs/material-design-icons/iconfont/material-icons.css',
     output='css/common.css',
 )
 
