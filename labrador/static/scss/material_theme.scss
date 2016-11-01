@@ -2,6 +2,64 @@
 @import './font-awesome/scss/font-awesome.scss';
 
 
+$primary: "teal";
+$secondary: "deep-orange";
+$success: "green";
+$warning: "amber";
+$danger: "red";
+$info: "light-blue";
+
+
+$alerts: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "danger": $danger,
+  "warning": $warning,
+  "success": $success,
+  "info": $info,
+);
+
+
+@each $alert_class, $color in $alerts {
+        .toast-#{$alert_class} {
+            @extend .#{$color}, .lighten-5;
+            @extend .#{$color}-text, .text-darken-4;
+            border-style: solid;
+            border-width: 1px;
+            border-color: color($color, "darken-1");
+        }
+}
+
+
+/* 1. Colors
+   ========================================================================== */
+
+
+$primary-color: color($primary, "lighten-1") !default;
+$primary-color-light: lighten($primary-color, 15%);
+$primary-color-dark: darken($primary-color, 15%);
+
+$secondary-color: color($secondary, "lighten-1");
+$success-color: color($success, "base");
+$warning-color: color($warning, "base");
+$error-color: color($danger, "base");
+$link-color: color("light-blue", "darken-1");
+
+@each $alert_class, $color in $alerts {
+    .material-icons.#{$alert_class} {
+        @extend .#{$color}-text, .text-darken-4;
+        border-color: color($color, "darken-1");
+        -webkit-text-fill-color: color($color, "lighten-1"); /* Will override color (regardless of order) */
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: color($color, "darken-4");
+    }
+}
+
+
+
+
+
+
 @font-face {
   font-family: 'Material Icons';
   font-style: normal;
