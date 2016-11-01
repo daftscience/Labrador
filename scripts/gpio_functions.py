@@ -22,7 +22,6 @@ class GPIO_HANDLER:
     def restart_supervisor(cls):
         _process = Popen(['supervisorctl', 'reload'], stdout=PIPE)
         output, error = _process.communicate()
-        sleep(20)
 
     @classmethod
     def rebuild_css(cls):
@@ -39,8 +38,11 @@ class GPIO_HANDLER:
         cls.GIT.pull()
         # print("Rebuilding CSS")
         # cls.rebuild_css()
+        sleep(3)
         print("restarting Services")
         cls.restart_supervisor()
+        cls.refresh()
+        sleep(20)
         print("refreshing")
         cls.refresh()
 
