@@ -36,6 +36,7 @@ class GPIO_HANDLER:
     @classmethod
     def update(cls):
         print("Pulling latest update")
+        cls.GIT.checkout('HEAD', b=".")
         cls.GIT.pull()
         # print("Rebuilding CSS")
         # cls.rebuild_css()
