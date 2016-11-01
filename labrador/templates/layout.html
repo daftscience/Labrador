@@ -10,7 +10,7 @@
   {% assets "css_all" %}
     <link rel="stylesheet" href="{{ ASSET_URL }}">
   {% endassets %}
-  
+
   {% block css %}{% endblock %}
 
 </head>
@@ -21,7 +21,7 @@
 {% endwith %}
 
 <header>{% block header %}{% endblock %}</header>
-<div class="{% block content_class %}container{% endblock content_class %}">
+<div class="{% block content_class %}{% endblock content_class %}">
 
 
 
