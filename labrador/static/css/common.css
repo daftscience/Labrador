@@ -13075,6 +13075,2676 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   clip: auto;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.materialize-red {
+  background-color: #e51c23 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.materialize-red-text {
+  color: #e51c23 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.materialize-red.lighten-5, .materialize-red.toast-primary, .materialize-red.toast-secondary, .materialize-red.toast-danger, .materialize-red.toast-warning, .materialize-red.toast-success, .materialize-red.toast-info {
+  background-color: #fdeaeb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.materialize-red-text.text-lighten-5 {
+  color: #fdeaeb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.materialize-red.lighten-4 {
+  background-color: #f8c1c3 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.materialize-red-text.text-lighten-4 {
+  color: #f8c1c3 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.materialize-red.lighten-3 {
+  background-color: #f3989b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.materialize-red-text.text-lighten-3 {
+  color: #f3989b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.materialize-red.lighten-2 {
+  background-color: #ee6e73 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.materialize-red-text.text-lighten-2 {
+  color: #ee6e73 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.materialize-red.lighten-1 {
+  background-color: #ea454b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.materialize-red-text.text-lighten-1 {
+  color: #ea454b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.materialize-red.darken-1 {
+  background-color: #d0181e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.materialize-red-text.text-darken-1 {
+  color: #d0181e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.materialize-red.darken-2 {
+  background-color: #b9151b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.materialize-red-text.text-darken-2 {
+  color: #b9151b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.materialize-red.darken-3 {
+  background-color: #a21318 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.materialize-red-text.text-darken-3 {
+  color: #a21318 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.materialize-red.darken-4 {
+  background-color: #8b1014 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.materialize-red-text.text-darken-4, .materialize-red-text.toast-primary, .materialize-red-text.toast-secondary, .materialize-red-text.toast-danger, .materialize-red-text.toast-warning, .materialize-red-text.toast-success, .materialize-red-text.toast-info, .materialize-red-text.material-icons.primary, .materialize-red-text.material-icons.secondary, .materialize-red-text.material-icons.danger, .materialize-red-text.material-icons.warning, .materialize-red-text.material-icons.success, .materialize-red-text.material-icons.info {
+  color: #8b1014 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.red, .toast-danger {
+  background-color: #F44336 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.red-text, .toast-danger, .material-icons.danger {
+  color: #F44336 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.lighten-5, .red.toast-primary, .red.toast-secondary, .toast-danger, .red.toast-warning, .red.toast-success, .red.toast-info {
+  background-color: #FFEBEE !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-lighten-5, .text-lighten-5.toast-danger, .text-lighten-5.material-icons.danger {
+  color: #FFEBEE !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.lighten-4, .lighten-4.toast-danger {
+  background-color: #FFCDD2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-lighten-4, .text-lighten-4.toast-danger, .text-lighten-4.material-icons.danger {
+  color: #FFCDD2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.lighten-3, .lighten-3.toast-danger {
+  background-color: #EF9A9A !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-lighten-3, .text-lighten-3.toast-danger, .text-lighten-3.material-icons.danger {
+  color: #EF9A9A !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.lighten-2, .lighten-2.toast-danger {
+  background-color: #E57373 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-lighten-2, .text-lighten-2.toast-danger, .text-lighten-2.material-icons.danger {
+  color: #E57373 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.lighten-1, .lighten-1.toast-danger {
+  background-color: #EF5350 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-lighten-1, .text-lighten-1.toast-danger, .text-lighten-1.material-icons.danger {
+  color: #EF5350 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.darken-1, .darken-1.toast-danger {
+  background-color: #E53935 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-darken-1, .text-darken-1.toast-danger, .text-darken-1.material-icons.danger {
+  color: #E53935 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.darken-2, .darken-2.toast-danger {
+  background-color: #D32F2F !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-darken-2, .text-darken-2.toast-danger, .text-darken-2.material-icons.danger {
+  color: #D32F2F !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.darken-3, .darken-3.toast-danger {
+  background-color: #C62828 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-darken-3, .text-darken-3.toast-danger, .text-darken-3.material-icons.danger {
+  color: #C62828 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.darken-4, .darken-4.toast-danger {
+  background-color: #B71C1C !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-darken-4, .red-text.toast-primary, .red-text.toast-secondary, .toast-danger, .red-text.toast-warning, .red-text.toast-success, .red-text.toast-info, .red-text.material-icons.primary, .material-icons.primary.toast-danger, .red-text.material-icons.secondary, .material-icons.secondary.toast-danger, .material-icons.danger, .red-text.material-icons.warning, .material-icons.warning.toast-danger, .red-text.material-icons.success, .material-icons.success.toast-danger, .red-text.material-icons.info, .material-icons.info.toast-danger {
+  color: #B71C1C !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.accent-1, .accent-1.toast-danger {
+  background-color: #FF8A80 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-accent-1, .text-accent-1.toast-danger, .text-accent-1.material-icons.danger {
+  color: #FF8A80 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.accent-2, .accent-2.toast-danger {
+  background-color: #FF5252 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-accent-2, .text-accent-2.toast-danger, .text-accent-2.material-icons.danger {
+  color: #FF5252 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.accent-3, .accent-3.toast-danger {
+  background-color: #FF1744 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-accent-3, .text-accent-3.toast-danger, .text-accent-3.material-icons.danger {
+  color: #FF1744 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.red.accent-4, .accent-4.toast-danger {
+  background-color: #D50000 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.red-text.text-accent-4, .text-accent-4.toast-danger, .text-accent-4.material-icons.danger {
+  color: #D50000 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.pink {
+  background-color: #e91e63 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.pink-text {
+  color: #e91e63 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.lighten-5, .pink.toast-primary, .pink.toast-secondary, .pink.toast-danger, .pink.toast-warning, .pink.toast-success, .pink.toast-info {
+  background-color: #fce4ec !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-lighten-5 {
+  color: #fce4ec !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.lighten-4 {
+  background-color: #f8bbd0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-lighten-4 {
+  color: #f8bbd0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.lighten-3 {
+  background-color: #f48fb1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-lighten-3 {
+  color: #f48fb1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.lighten-2 {
+  background-color: #f06292 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-lighten-2 {
+  color: #f06292 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.lighten-1 {
+  background-color: #ec407a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-lighten-1 {
+  color: #ec407a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.darken-1 {
+  background-color: #d81b60 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-darken-1 {
+  color: #d81b60 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.darken-2 {
+  background-color: #c2185b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-darken-2 {
+  color: #c2185b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.darken-3 {
+  background-color: #ad1457 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-darken-3 {
+  color: #ad1457 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.darken-4 {
+  background-color: #880e4f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-darken-4, .pink-text.toast-primary, .pink-text.toast-secondary, .pink-text.toast-danger, .pink-text.toast-warning, .pink-text.toast-success, .pink-text.toast-info, .pink-text.material-icons.primary, .pink-text.material-icons.secondary, .pink-text.material-icons.danger, .pink-text.material-icons.warning, .pink-text.material-icons.success, .pink-text.material-icons.info {
+  color: #880e4f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.accent-1 {
+  background-color: #ff80ab !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-accent-1 {
+  color: #ff80ab !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.accent-2 {
+  background-color: #ff4081 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-accent-2 {
+  color: #ff4081 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.accent-3 {
+  background-color: #f50057 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-accent-3 {
+  color: #f50057 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.pink.accent-4 {
+  background-color: #c51162 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.pink-text.text-accent-4 {
+  color: #c51162 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.purple {
+  background-color: #9c27b0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.purple-text {
+  color: #9c27b0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.lighten-5, .purple.toast-primary, .purple.toast-secondary, .purple.toast-danger, .purple.toast-warning, .purple.toast-success, .purple.toast-info {
+  background-color: #f3e5f5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-lighten-5 {
+  color: #f3e5f5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.lighten-4 {
+  background-color: #e1bee7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-lighten-4 {
+  color: #e1bee7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.lighten-3 {
+  background-color: #ce93d8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-lighten-3 {
+  color: #ce93d8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.lighten-2 {
+  background-color: #ba68c8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-lighten-2 {
+  color: #ba68c8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.lighten-1 {
+  background-color: #ab47bc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-lighten-1 {
+  color: #ab47bc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.darken-1 {
+  background-color: #8e24aa !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-darken-1 {
+  color: #8e24aa !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.darken-2 {
+  background-color: #7b1fa2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-darken-2 {
+  color: #7b1fa2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.darken-3 {
+  background-color: #6a1b9a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-darken-3 {
+  color: #6a1b9a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.darken-4 {
+  background-color: #4a148c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-darken-4, .purple-text.toast-primary, .purple-text.toast-secondary, .purple-text.toast-danger, .purple-text.toast-warning, .purple-text.toast-success, .purple-text.toast-info, .purple-text.material-icons.primary, .purple-text.material-icons.secondary, .purple-text.material-icons.danger, .purple-text.material-icons.warning, .purple-text.material-icons.success, .purple-text.material-icons.info {
+  color: #4a148c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.accent-1 {
+  background-color: #ea80fc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-accent-1 {
+  color: #ea80fc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.accent-2 {
+  background-color: #e040fb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-accent-2 {
+  color: #e040fb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.accent-3 {
+  background-color: #d500f9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-accent-3 {
+  color: #d500f9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.purple.accent-4 {
+  background-color: #aa00ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.purple-text.text-accent-4 {
+  color: #aa00ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.deep-purple {
+  background-color: #673ab7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.deep-purple-text {
+  color: #673ab7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.lighten-5, .deep-purple.toast-primary, .deep-purple.toast-secondary, .deep-purple.toast-danger, .deep-purple.toast-warning, .deep-purple.toast-success, .deep-purple.toast-info {
+  background-color: #ede7f6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-lighten-5 {
+  color: #ede7f6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.lighten-4 {
+  background-color: #d1c4e9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-lighten-4 {
+  color: #d1c4e9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.lighten-3 {
+  background-color: #b39ddb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-lighten-3 {
+  color: #b39ddb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.lighten-2 {
+  background-color: #9575cd !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-lighten-2 {
+  color: #9575cd !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.lighten-1 {
+  background-color: #7e57c2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-lighten-1 {
+  color: #7e57c2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.darken-1 {
+  background-color: #5e35b1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-darken-1 {
+  color: #5e35b1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.darken-2 {
+  background-color: #512da8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-darken-2 {
+  color: #512da8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.darken-3 {
+  background-color: #4527a0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-darken-3 {
+  color: #4527a0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.darken-4 {
+  background-color: #311b92 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-darken-4, .deep-purple-text.toast-primary, .deep-purple-text.toast-secondary, .deep-purple-text.toast-danger, .deep-purple-text.toast-warning, .deep-purple-text.toast-success, .deep-purple-text.toast-info, .deep-purple-text.material-icons.primary, .deep-purple-text.material-icons.secondary, .deep-purple-text.material-icons.danger, .deep-purple-text.material-icons.warning, .deep-purple-text.material-icons.success, .deep-purple-text.material-icons.info {
+  color: #311b92 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.accent-1 {
+  background-color: #b388ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-accent-1 {
+  color: #b388ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.accent-2 {
+  background-color: #7c4dff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-accent-2 {
+  color: #7c4dff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.accent-3 {
+  background-color: #651fff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-accent-3 {
+  color: #651fff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-purple.accent-4 {
+  background-color: #6200ea !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-purple-text.text-accent-4 {
+  color: #6200ea !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.indigo {
+  background-color: #3f51b5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.indigo-text {
+  color: #3f51b5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.lighten-5, .indigo.toast-primary, .indigo.toast-secondary, .indigo.toast-danger, .indigo.toast-warning, .indigo.toast-success, .indigo.toast-info {
+  background-color: #e8eaf6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-lighten-5 {
+  color: #e8eaf6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.lighten-4 {
+  background-color: #c5cae9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-lighten-4 {
+  color: #c5cae9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.lighten-3 {
+  background-color: #9fa8da !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-lighten-3 {
+  color: #9fa8da !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.lighten-2 {
+  background-color: #7986cb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-lighten-2 {
+  color: #7986cb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.lighten-1 {
+  background-color: #5c6bc0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-lighten-1 {
+  color: #5c6bc0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.darken-1 {
+  background-color: #3949ab !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-darken-1 {
+  color: #3949ab !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.darken-2 {
+  background-color: #303f9f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-darken-2 {
+  color: #303f9f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.darken-3 {
+  background-color: #283593 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-darken-3 {
+  color: #283593 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.darken-4 {
+  background-color: #1a237e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-darken-4, .indigo-text.toast-primary, .indigo-text.toast-secondary, .indigo-text.toast-danger, .indigo-text.toast-warning, .indigo-text.toast-success, .indigo-text.toast-info, .indigo-text.material-icons.primary, .indigo-text.material-icons.secondary, .indigo-text.material-icons.danger, .indigo-text.material-icons.warning, .indigo-text.material-icons.success, .indigo-text.material-icons.info {
+  color: #1a237e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.accent-1 {
+  background-color: #8c9eff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-accent-1 {
+  color: #8c9eff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.accent-2 {
+  background-color: #536dfe !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-accent-2 {
+  color: #536dfe !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.accent-3 {
+  background-color: #3d5afe !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-accent-3 {
+  color: #3d5afe !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.indigo.accent-4 {
+  background-color: #304ffe !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.indigo-text.text-accent-4 {
+  color: #304ffe !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.blue {
+  background-color: #2196F3 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.blue-text {
+  color: #2196F3 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.lighten-5, .blue.toast-primary, .blue.toast-secondary, .blue.toast-danger, .blue.toast-warning, .blue.toast-success, .blue.toast-info {
+  background-color: #E3F2FD !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-lighten-5 {
+  color: #E3F2FD !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.lighten-4 {
+  background-color: #BBDEFB !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-lighten-4 {
+  color: #BBDEFB !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.lighten-3 {
+  background-color: #90CAF9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-lighten-3 {
+  color: #90CAF9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.lighten-2 {
+  background-color: #64B5F6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-lighten-2 {
+  color: #64B5F6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.lighten-1 {
+  background-color: #42A5F5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-lighten-1 {
+  color: #42A5F5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.darken-1 {
+  background-color: #1E88E5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-darken-1 {
+  color: #1E88E5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.darken-2 {
+  background-color: #1976D2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-darken-2 {
+  color: #1976D2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.darken-3 {
+  background-color: #1565C0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-darken-3 {
+  color: #1565C0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.darken-4 {
+  background-color: #0D47A1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-darken-4, .blue-text.toast-primary, .blue-text.toast-secondary, .blue-text.toast-danger, .blue-text.toast-warning, .blue-text.toast-success, .blue-text.toast-info, .blue-text.material-icons.primary, .blue-text.material-icons.secondary, .blue-text.material-icons.danger, .blue-text.material-icons.warning, .blue-text.material-icons.success, .blue-text.material-icons.info {
+  color: #0D47A1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.accent-1 {
+  background-color: #82B1FF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-accent-1 {
+  color: #82B1FF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.accent-2 {
+  background-color: #448AFF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-accent-2 {
+  color: #448AFF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.accent-3 {
+  background-color: #2979FF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-accent-3 {
+  color: #2979FF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue.accent-4 {
+  background-color: #2962FF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-text.text-accent-4 {
+  color: #2962FF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.light-blue, .toast-info {
+  background-color: #03a9f4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.light-blue-text, .toast-info, .material-icons.info {
+  color: #03a9f4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.lighten-5, .light-blue.toast-primary, .light-blue.toast-secondary, .light-blue.toast-danger, .light-blue.toast-warning, .light-blue.toast-success, .toast-info {
+  background-color: #e1f5fe !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-lighten-5, .text-lighten-5.toast-info, .text-lighten-5.material-icons.info {
+  color: #e1f5fe !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.lighten-4, .lighten-4.toast-info {
+  background-color: #b3e5fc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-lighten-4, .text-lighten-4.toast-info, .text-lighten-4.material-icons.info {
+  color: #b3e5fc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.lighten-3, .lighten-3.toast-info {
+  background-color: #81d4fa !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-lighten-3, .text-lighten-3.toast-info, .text-lighten-3.material-icons.info {
+  color: #81d4fa !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.lighten-2, .lighten-2.toast-info {
+  background-color: #4fc3f7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-lighten-2, .text-lighten-2.toast-info, .text-lighten-2.material-icons.info {
+  color: #4fc3f7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.lighten-1, .lighten-1.toast-info {
+  background-color: #29b6f6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-lighten-1, .text-lighten-1.toast-info, .text-lighten-1.material-icons.info {
+  color: #29b6f6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.darken-1, .darken-1.toast-info {
+  background-color: #039be5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-darken-1, .text-darken-1.toast-info, .text-darken-1.material-icons.info {
+  color: #039be5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.darken-2, .darken-2.toast-info {
+  background-color: #0288d1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-darken-2, .text-darken-2.toast-info, .text-darken-2.material-icons.info {
+  color: #0288d1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.darken-3, .darken-3.toast-info {
+  background-color: #0277bd !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-darken-3, .text-darken-3.toast-info, .text-darken-3.material-icons.info {
+  color: #0277bd !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.darken-4, .darken-4.toast-info {
+  background-color: #01579b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-darken-4, .light-blue-text.toast-primary, .light-blue-text.toast-secondary, .light-blue-text.toast-danger, .light-blue-text.toast-warning, .light-blue-text.toast-success, .toast-info, .light-blue-text.material-icons.primary, .material-icons.primary.toast-info, .light-blue-text.material-icons.secondary, .material-icons.secondary.toast-info, .light-blue-text.material-icons.danger, .material-icons.danger.toast-info, .light-blue-text.material-icons.warning, .material-icons.warning.toast-info, .light-blue-text.material-icons.success, .material-icons.success.toast-info, .material-icons.info {
+  color: #01579b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.accent-1, .accent-1.toast-info {
+  background-color: #80d8ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-accent-1, .text-accent-1.toast-info, .text-accent-1.material-icons.info {
+  color: #80d8ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.accent-2, .accent-2.toast-info {
+  background-color: #40c4ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-accent-2, .text-accent-2.toast-info, .text-accent-2.material-icons.info {
+  color: #40c4ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.accent-3, .accent-3.toast-info {
+  background-color: #00b0ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-accent-3, .text-accent-3.toast-info, .text-accent-3.material-icons.info {
+  color: #00b0ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-blue.accent-4, .accent-4.toast-info {
+  background-color: #0091ea !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-blue-text.text-accent-4, .text-accent-4.toast-info, .text-accent-4.material-icons.info {
+  color: #0091ea !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.cyan {
+  background-color: #00bcd4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.cyan-text {
+  color: #00bcd4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.lighten-5, .cyan.toast-primary, .cyan.toast-secondary, .cyan.toast-danger, .cyan.toast-warning, .cyan.toast-success, .cyan.toast-info {
+  background-color: #e0f7fa !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-lighten-5 {
+  color: #e0f7fa !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.lighten-4 {
+  background-color: #b2ebf2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-lighten-4 {
+  color: #b2ebf2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.lighten-3 {
+  background-color: #80deea !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-lighten-3 {
+  color: #80deea !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.lighten-2 {
+  background-color: #4dd0e1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-lighten-2 {
+  color: #4dd0e1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.lighten-1 {
+  background-color: #26c6da !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-lighten-1 {
+  color: #26c6da !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.darken-1 {
+  background-color: #00acc1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-darken-1 {
+  color: #00acc1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.darken-2 {
+  background-color: #0097a7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-darken-2 {
+  color: #0097a7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.darken-3 {
+  background-color: #00838f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-darken-3 {
+  color: #00838f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.darken-4 {
+  background-color: #006064 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-darken-4, .cyan-text.toast-primary, .cyan-text.toast-secondary, .cyan-text.toast-danger, .cyan-text.toast-warning, .cyan-text.toast-success, .cyan-text.toast-info, .cyan-text.material-icons.primary, .cyan-text.material-icons.secondary, .cyan-text.material-icons.danger, .cyan-text.material-icons.warning, .cyan-text.material-icons.success, .cyan-text.material-icons.info {
+  color: #006064 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.accent-1 {
+  background-color: #84ffff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-accent-1 {
+  color: #84ffff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.accent-2 {
+  background-color: #18ffff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-accent-2 {
+  color: #18ffff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.accent-3 {
+  background-color: #00e5ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-accent-3 {
+  color: #00e5ff !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.cyan.accent-4 {
+  background-color: #00b8d4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.cyan-text.text-accent-4 {
+  color: #00b8d4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.teal, .toast-primary {
+  background-color: #009688 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.teal-text, .toast-primary, .material-icons.primary {
+  color: #009688 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.lighten-5, .toast-primary, .teal.toast-secondary, .teal.toast-danger, .teal.toast-warning, .teal.toast-success, .teal.toast-info {
+  background-color: #e0f2f1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-lighten-5, .text-lighten-5.toast-primary, .text-lighten-5.material-icons.primary {
+  color: #e0f2f1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.lighten-4, .lighten-4.toast-primary {
+  background-color: #b2dfdb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-lighten-4, .text-lighten-4.toast-primary, .text-lighten-4.material-icons.primary {
+  color: #b2dfdb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.lighten-3, .lighten-3.toast-primary {
+  background-color: #80cbc4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-lighten-3, .text-lighten-3.toast-primary, .text-lighten-3.material-icons.primary {
+  color: #80cbc4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.lighten-2, .lighten-2.toast-primary {
+  background-color: #4db6ac !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-lighten-2, .text-lighten-2.toast-primary, .text-lighten-2.material-icons.primary {
+  color: #4db6ac !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.lighten-1, .lighten-1.toast-primary {
+  background-color: #26a69a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-lighten-1, .text-lighten-1.toast-primary, .text-lighten-1.material-icons.primary {
+  color: #26a69a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.darken-1, .darken-1.toast-primary {
+  background-color: #00897b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-darken-1, .text-darken-1.toast-primary, .text-darken-1.material-icons.primary {
+  color: #00897b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.darken-2, .darken-2.toast-primary {
+  background-color: #00796b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-darken-2, .text-darken-2.toast-primary, .text-darken-2.material-icons.primary {
+  color: #00796b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.darken-3, .darken-3.toast-primary {
+  background-color: #00695c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-darken-3, .text-darken-3.toast-primary, .text-darken-3.material-icons.primary {
+  color: #00695c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.darken-4, .darken-4.toast-primary {
+  background-color: #004d40 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-darken-4, .toast-primary, .teal-text.toast-secondary, .teal-text.toast-danger, .teal-text.toast-warning, .teal-text.toast-success, .teal-text.toast-info, .material-icons.primary, .teal-text.material-icons.secondary, .material-icons.secondary.toast-primary, .teal-text.material-icons.danger, .material-icons.danger.toast-primary, .teal-text.material-icons.warning, .material-icons.warning.toast-primary, .teal-text.material-icons.success, .material-icons.success.toast-primary, .teal-text.material-icons.info, .material-icons.info.toast-primary {
+  color: #004d40 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.accent-1, .accent-1.toast-primary {
+  background-color: #a7ffeb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-accent-1, .text-accent-1.toast-primary, .text-accent-1.material-icons.primary {
+  color: #a7ffeb !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.accent-2, .accent-2.toast-primary {
+  background-color: #64ffda !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-accent-2, .text-accent-2.toast-primary, .text-accent-2.material-icons.primary {
+  color: #64ffda !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.accent-3, .accent-3.toast-primary {
+  background-color: #1de9b6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-accent-3, .text-accent-3.toast-primary, .text-accent-3.material-icons.primary {
+  color: #1de9b6 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.teal.accent-4, .accent-4.toast-primary {
+  background-color: #00bfa5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.teal-text.text-accent-4, .text-accent-4.toast-primary, .text-accent-4.material-icons.primary {
+  color: #00bfa5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.green, .toast-success {
+  background-color: #4CAF50 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.green-text, .toast-success, .material-icons.success {
+  color: #4CAF50 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.lighten-5, .green.toast-primary, .green.toast-secondary, .green.toast-danger, .green.toast-warning, .toast-success, .green.toast-info {
+  background-color: #E8F5E9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-lighten-5, .text-lighten-5.toast-success, .text-lighten-5.material-icons.success {
+  color: #E8F5E9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.lighten-4, .lighten-4.toast-success {
+  background-color: #C8E6C9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-lighten-4, .text-lighten-4.toast-success, .text-lighten-4.material-icons.success {
+  color: #C8E6C9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.lighten-3, .lighten-3.toast-success {
+  background-color: #A5D6A7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-lighten-3, .text-lighten-3.toast-success, .text-lighten-3.material-icons.success {
+  color: #A5D6A7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.lighten-2, .lighten-2.toast-success {
+  background-color: #81C784 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-lighten-2, .text-lighten-2.toast-success, .text-lighten-2.material-icons.success {
+  color: #81C784 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.lighten-1, .lighten-1.toast-success {
+  background-color: #66BB6A !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-lighten-1, .text-lighten-1.toast-success, .text-lighten-1.material-icons.success {
+  color: #66BB6A !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.darken-1, .darken-1.toast-success {
+  background-color: #43A047 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-darken-1, .text-darken-1.toast-success, .text-darken-1.material-icons.success {
+  color: #43A047 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.darken-2, .darken-2.toast-success {
+  background-color: #388E3C !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-darken-2, .text-darken-2.toast-success, .text-darken-2.material-icons.success {
+  color: #388E3C !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.darken-3, .darken-3.toast-success {
+  background-color: #2E7D32 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-darken-3, .text-darken-3.toast-success, .text-darken-3.material-icons.success {
+  color: #2E7D32 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.darken-4, .darken-4.toast-success {
+  background-color: #1B5E20 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-darken-4, .green-text.toast-primary, .green-text.toast-secondary, .green-text.toast-danger, .green-text.toast-warning, .toast-success, .green-text.toast-info, .green-text.material-icons.primary, .material-icons.primary.toast-success, .green-text.material-icons.secondary, .material-icons.secondary.toast-success, .green-text.material-icons.danger, .material-icons.danger.toast-success, .green-text.material-icons.warning, .material-icons.warning.toast-success, .material-icons.success, .green-text.material-icons.info, .material-icons.info.toast-success {
+  color: #1B5E20 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.accent-1, .accent-1.toast-success {
+  background-color: #B9F6CA !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-accent-1, .text-accent-1.toast-success, .text-accent-1.material-icons.success {
+  color: #B9F6CA !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.accent-2, .accent-2.toast-success {
+  background-color: #69F0AE !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-accent-2, .text-accent-2.toast-success, .text-accent-2.material-icons.success {
+  color: #69F0AE !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.accent-3, .accent-3.toast-success {
+  background-color: #00E676 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-accent-3, .text-accent-3.toast-success, .text-accent-3.material-icons.success {
+  color: #00E676 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.green.accent-4, .accent-4.toast-success {
+  background-color: #00C853 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.green-text.text-accent-4, .text-accent-4.toast-success, .text-accent-4.material-icons.success {
+  color: #00C853 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.light-green {
+  background-color: #8bc34a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.light-green-text {
+  color: #8bc34a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.lighten-5, .light-green.toast-primary, .light-green.toast-secondary, .light-green.toast-danger, .light-green.toast-warning, .light-green.toast-success, .light-green.toast-info {
+  background-color: #f1f8e9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-lighten-5 {
+  color: #f1f8e9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.lighten-4 {
+  background-color: #dcedc8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-lighten-4 {
+  color: #dcedc8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.lighten-3 {
+  background-color: #c5e1a5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-lighten-3 {
+  color: #c5e1a5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.lighten-2 {
+  background-color: #aed581 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-lighten-2 {
+  color: #aed581 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.lighten-1 {
+  background-color: #9ccc65 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-lighten-1 {
+  color: #9ccc65 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.darken-1 {
+  background-color: #7cb342 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-darken-1 {
+  color: #7cb342 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.darken-2 {
+  background-color: #689f38 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-darken-2 {
+  color: #689f38 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.darken-3 {
+  background-color: #558b2f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-darken-3 {
+  color: #558b2f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.darken-4 {
+  background-color: #33691e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-darken-4, .light-green-text.toast-primary, .light-green-text.toast-secondary, .light-green-text.toast-danger, .light-green-text.toast-warning, .light-green-text.toast-success, .light-green-text.toast-info, .light-green-text.material-icons.primary, .light-green-text.material-icons.secondary, .light-green-text.material-icons.danger, .light-green-text.material-icons.warning, .light-green-text.material-icons.success, .light-green-text.material-icons.info {
+  color: #33691e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.accent-1 {
+  background-color: #ccff90 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-accent-1 {
+  color: #ccff90 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.accent-2 {
+  background-color: #b2ff59 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-accent-2 {
+  color: #b2ff59 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.accent-3 {
+  background-color: #76ff03 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-accent-3 {
+  color: #76ff03 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.light-green.accent-4 {
+  background-color: #64dd17 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.light-green-text.text-accent-4 {
+  color: #64dd17 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.lime {
+  background-color: #cddc39 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.lime-text {
+  color: #cddc39 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.lighten-5, .lime.toast-primary, .lime.toast-secondary, .lime.toast-danger, .lime.toast-warning, .lime.toast-success, .lime.toast-info {
+  background-color: #f9fbe7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-lighten-5 {
+  color: #f9fbe7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.lighten-4 {
+  background-color: #f0f4c3 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-lighten-4 {
+  color: #f0f4c3 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.lighten-3 {
+  background-color: #e6ee9c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-lighten-3 {
+  color: #e6ee9c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.lighten-2 {
+  background-color: #dce775 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-lighten-2 {
+  color: #dce775 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.lighten-1 {
+  background-color: #d4e157 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-lighten-1 {
+  color: #d4e157 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.darken-1 {
+  background-color: #c0ca33 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-darken-1 {
+  color: #c0ca33 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.darken-2 {
+  background-color: #afb42b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-darken-2 {
+  color: #afb42b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.darken-3 {
+  background-color: #9e9d24 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-darken-3 {
+  color: #9e9d24 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.darken-4 {
+  background-color: #827717 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-darken-4, .lime-text.toast-primary, .lime-text.toast-secondary, .lime-text.toast-danger, .lime-text.toast-warning, .lime-text.toast-success, .lime-text.toast-info, .lime-text.material-icons.primary, .lime-text.material-icons.secondary, .lime-text.material-icons.danger, .lime-text.material-icons.warning, .lime-text.material-icons.success, .lime-text.material-icons.info {
+  color: #827717 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.accent-1 {
+  background-color: #f4ff81 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-accent-1 {
+  color: #f4ff81 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.accent-2 {
+  background-color: #eeff41 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-accent-2 {
+  color: #eeff41 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.accent-3 {
+  background-color: #c6ff00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-accent-3 {
+  color: #c6ff00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.lime.accent-4 {
+  background-color: #aeea00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.lime-text.text-accent-4 {
+  color: #aeea00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.yellow {
+  background-color: #ffeb3b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.yellow-text {
+  color: #ffeb3b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.lighten-5, .yellow.toast-primary, .yellow.toast-secondary, .yellow.toast-danger, .yellow.toast-warning, .yellow.toast-success, .yellow.toast-info {
+  background-color: #fffde7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-lighten-5 {
+  color: #fffde7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.lighten-4 {
+  background-color: #fff9c4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-lighten-4 {
+  color: #fff9c4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.lighten-3 {
+  background-color: #fff59d !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-lighten-3 {
+  color: #fff59d !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.lighten-2 {
+  background-color: #fff176 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-lighten-2 {
+  color: #fff176 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.lighten-1 {
+  background-color: #ffee58 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-lighten-1 {
+  color: #ffee58 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.darken-1 {
+  background-color: #fdd835 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-darken-1 {
+  color: #fdd835 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.darken-2 {
+  background-color: #fbc02d !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-darken-2 {
+  color: #fbc02d !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.darken-3 {
+  background-color: #f9a825 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-darken-3 {
+  color: #f9a825 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.darken-4 {
+  background-color: #f57f17 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-darken-4, .yellow-text.toast-primary, .yellow-text.toast-secondary, .yellow-text.toast-danger, .yellow-text.toast-warning, .yellow-text.toast-success, .yellow-text.toast-info, .yellow-text.material-icons.primary, .yellow-text.material-icons.secondary, .yellow-text.material-icons.danger, .yellow-text.material-icons.warning, .yellow-text.material-icons.success, .yellow-text.material-icons.info {
+  color: #f57f17 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.accent-1 {
+  background-color: #ffff8d !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-accent-1 {
+  color: #ffff8d !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.accent-2 {
+  background-color: #ffff00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-accent-2 {
+  color: #ffff00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.accent-3 {
+  background-color: #ffea00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-accent-3 {
+  color: #ffea00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.yellow.accent-4 {
+  background-color: #ffd600 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.yellow-text.text-accent-4 {
+  color: #ffd600 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.amber, .toast-warning {
+  background-color: #ffc107 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.amber-text, .toast-warning, .material-icons.warning {
+  color: #ffc107 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.lighten-5, .amber.toast-primary, .amber.toast-secondary, .amber.toast-danger, .toast-warning, .amber.toast-success, .amber.toast-info {
+  background-color: #fff8e1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-lighten-5, .text-lighten-5.toast-warning, .text-lighten-5.material-icons.warning {
+  color: #fff8e1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.lighten-4, .lighten-4.toast-warning {
+  background-color: #ffecb3 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-lighten-4, .text-lighten-4.toast-warning, .text-lighten-4.material-icons.warning {
+  color: #ffecb3 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.lighten-3, .lighten-3.toast-warning {
+  background-color: #ffe082 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-lighten-3, .text-lighten-3.toast-warning, .text-lighten-3.material-icons.warning {
+  color: #ffe082 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.lighten-2, .lighten-2.toast-warning {
+  background-color: #ffd54f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-lighten-2, .text-lighten-2.toast-warning, .text-lighten-2.material-icons.warning {
+  color: #ffd54f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.lighten-1, .lighten-1.toast-warning {
+  background-color: #ffca28 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-lighten-1, .text-lighten-1.toast-warning, .text-lighten-1.material-icons.warning {
+  color: #ffca28 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.darken-1, .darken-1.toast-warning {
+  background-color: #ffb300 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-darken-1, .text-darken-1.toast-warning, .text-darken-1.material-icons.warning {
+  color: #ffb300 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.darken-2, .darken-2.toast-warning {
+  background-color: #ffa000 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-darken-2, .text-darken-2.toast-warning, .text-darken-2.material-icons.warning {
+  color: #ffa000 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.darken-3, .darken-3.toast-warning {
+  background-color: #ff8f00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-darken-3, .text-darken-3.toast-warning, .text-darken-3.material-icons.warning {
+  color: #ff8f00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.darken-4, .darken-4.toast-warning {
+  background-color: #ff6f00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-darken-4, .amber-text.toast-primary, .amber-text.toast-secondary, .amber-text.toast-danger, .toast-warning, .amber-text.toast-success, .amber-text.toast-info, .amber-text.material-icons.primary, .material-icons.primary.toast-warning, .amber-text.material-icons.secondary, .material-icons.secondary.toast-warning, .amber-text.material-icons.danger, .material-icons.danger.toast-warning, .material-icons.warning, .amber-text.material-icons.success, .material-icons.success.toast-warning, .amber-text.material-icons.info, .material-icons.info.toast-warning {
+  color: #ff6f00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.accent-1, .accent-1.toast-warning {
+  background-color: #ffe57f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-accent-1, .text-accent-1.toast-warning, .text-accent-1.material-icons.warning {
+  color: #ffe57f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.accent-2, .accent-2.toast-warning {
+  background-color: #ffd740 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-accent-2, .text-accent-2.toast-warning, .text-accent-2.material-icons.warning {
+  color: #ffd740 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.accent-3, .accent-3.toast-warning {
+  background-color: #ffc400 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-accent-3, .text-accent-3.toast-warning, .text-accent-3.material-icons.warning {
+  color: #ffc400 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.amber.accent-4, .accent-4.toast-warning {
+  background-color: #ffab00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.amber-text.text-accent-4, .text-accent-4.toast-warning, .text-accent-4.material-icons.warning {
+  color: #ffab00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.orange {
+  background-color: #ff9800 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.orange-text {
+  color: #ff9800 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.lighten-5, .orange.toast-primary, .orange.toast-secondary, .orange.toast-danger, .orange.toast-warning, .orange.toast-success, .orange.toast-info {
+  background-color: #fff3e0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-lighten-5 {
+  color: #fff3e0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.lighten-4 {
+  background-color: #ffe0b2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-lighten-4 {
+  color: #ffe0b2 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.lighten-3 {
+  background-color: #ffcc80 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-lighten-3 {
+  color: #ffcc80 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.lighten-2 {
+  background-color: #ffb74d !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-lighten-2 {
+  color: #ffb74d !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.lighten-1 {
+  background-color: #ffa726 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-lighten-1 {
+  color: #ffa726 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.darken-1 {
+  background-color: #fb8c00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-darken-1 {
+  color: #fb8c00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.darken-2 {
+  background-color: #f57c00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-darken-2 {
+  color: #f57c00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.darken-3 {
+  background-color: #ef6c00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-darken-3 {
+  color: #ef6c00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.darken-4 {
+  background-color: #e65100 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-darken-4, .orange-text.toast-primary, .orange-text.toast-secondary, .orange-text.toast-danger, .orange-text.toast-warning, .orange-text.toast-success, .orange-text.toast-info, .orange-text.material-icons.primary, .orange-text.material-icons.secondary, .orange-text.material-icons.danger, .orange-text.material-icons.warning, .orange-text.material-icons.success, .orange-text.material-icons.info {
+  color: #e65100 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.accent-1 {
+  background-color: #ffd180 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-accent-1 {
+  color: #ffd180 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.accent-2 {
+  background-color: #ffab40 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-accent-2 {
+  color: #ffab40 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.accent-3 {
+  background-color: #ff9100 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-accent-3 {
+  color: #ff9100 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.orange.accent-4 {
+  background-color: #ff6d00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.orange-text.text-accent-4 {
+  color: #ff6d00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.deep-orange, .toast-secondary {
+  background-color: #ff5722 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.deep-orange-text, .toast-secondary, .material-icons.secondary {
+  color: #ff5722 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.lighten-5, .deep-orange.toast-primary, .toast-secondary, .deep-orange.toast-danger, .deep-orange.toast-warning, .deep-orange.toast-success, .deep-orange.toast-info {
+  background-color: #fbe9e7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-lighten-5, .text-lighten-5.toast-secondary, .text-lighten-5.material-icons.secondary {
+  color: #fbe9e7 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.lighten-4, .lighten-4.toast-secondary {
+  background-color: #ffccbc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-lighten-4, .text-lighten-4.toast-secondary, .text-lighten-4.material-icons.secondary {
+  color: #ffccbc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.lighten-3, .lighten-3.toast-secondary {
+  background-color: #ffab91 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-lighten-3, .text-lighten-3.toast-secondary, .text-lighten-3.material-icons.secondary {
+  color: #ffab91 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.lighten-2, .lighten-2.toast-secondary {
+  background-color: #ff8a65 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-lighten-2, .text-lighten-2.toast-secondary, .text-lighten-2.material-icons.secondary {
+  color: #ff8a65 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.lighten-1, .lighten-1.toast-secondary {
+  background-color: #ff7043 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-lighten-1, .text-lighten-1.toast-secondary, .text-lighten-1.material-icons.secondary {
+  color: #ff7043 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.darken-1, .darken-1.toast-secondary {
+  background-color: #f4511e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-darken-1, .text-darken-1.toast-secondary, .text-darken-1.material-icons.secondary {
+  color: #f4511e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.darken-2, .darken-2.toast-secondary {
+  background-color: #e64a19 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-darken-2, .text-darken-2.toast-secondary, .text-darken-2.material-icons.secondary {
+  color: #e64a19 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.darken-3, .darken-3.toast-secondary {
+  background-color: #d84315 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-darken-3, .text-darken-3.toast-secondary, .text-darken-3.material-icons.secondary {
+  color: #d84315 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.darken-4, .darken-4.toast-secondary {
+  background-color: #bf360c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-darken-4, .deep-orange-text.toast-primary, .toast-secondary, .deep-orange-text.toast-danger, .deep-orange-text.toast-warning, .deep-orange-text.toast-success, .deep-orange-text.toast-info, .deep-orange-text.material-icons.primary, .material-icons.primary.toast-secondary, .material-icons.secondary, .deep-orange-text.material-icons.danger, .material-icons.danger.toast-secondary, .deep-orange-text.material-icons.warning, .material-icons.warning.toast-secondary, .deep-orange-text.material-icons.success, .material-icons.success.toast-secondary, .deep-orange-text.material-icons.info, .material-icons.info.toast-secondary {
+  color: #bf360c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.accent-1, .accent-1.toast-secondary {
+  background-color: #ff9e80 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-accent-1, .text-accent-1.toast-secondary, .text-accent-1.material-icons.secondary {
+  color: #ff9e80 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.accent-2, .accent-2.toast-secondary {
+  background-color: #ff6e40 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-accent-2, .text-accent-2.toast-secondary, .text-accent-2.material-icons.secondary {
+  color: #ff6e40 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.accent-3, .accent-3.toast-secondary {
+  background-color: #ff3d00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-accent-3, .text-accent-3.toast-secondary, .text-accent-3.material-icons.secondary {
+  color: #ff3d00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.deep-orange.accent-4, .accent-4.toast-secondary {
+  background-color: #dd2c00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.deep-orange-text.text-accent-4, .text-accent-4.toast-secondary, .text-accent-4.material-icons.secondary {
+  color: #dd2c00 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.brown {
+  background-color: #795548 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.brown-text {
+  color: #795548 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.brown.lighten-5, .brown.toast-primary, .brown.toast-secondary, .brown.toast-danger, .brown.toast-warning, .brown.toast-success, .brown.toast-info {
+  background-color: #efebe9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.brown-text.text-lighten-5 {
+  color: #efebe9 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.brown.lighten-4 {
+  background-color: #d7ccc8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.brown-text.text-lighten-4 {
+  color: #d7ccc8 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.brown.lighten-3 {
+  background-color: #bcaaa4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.brown-text.text-lighten-3 {
+  color: #bcaaa4 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.brown.lighten-2 {
+  background-color: #a1887f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.brown-text.text-lighten-2 {
+  color: #a1887f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.brown.lighten-1 {
+  background-color: #8d6e63 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.brown-text.text-lighten-1 {
+  color: #8d6e63 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.brown.darken-1 {
+  background-color: #6d4c41 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.brown-text.text-darken-1 {
+  color: #6d4c41 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.brown.darken-2 {
+  background-color: #5d4037 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.brown-text.text-darken-2 {
+  color: #5d4037 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.brown.darken-3 {
+  background-color: #4e342e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.brown-text.text-darken-3 {
+  color: #4e342e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.brown.darken-4 {
+  background-color: #3e2723 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.brown-text.text-darken-4, .brown-text.toast-primary, .brown-text.toast-secondary, .brown-text.toast-danger, .brown-text.toast-warning, .brown-text.toast-success, .brown-text.toast-info, .brown-text.material-icons.primary, .brown-text.material-icons.secondary, .brown-text.material-icons.danger, .brown-text.material-icons.warning, .brown-text.material-icons.success, .brown-text.material-icons.info {
+  color: #3e2723 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.blue-grey {
+  background-color: #607d8b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.blue-grey-text {
+  color: #607d8b !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue-grey.lighten-5, .blue-grey.toast-primary, .blue-grey.toast-secondary, .blue-grey.toast-danger, .blue-grey.toast-warning, .blue-grey.toast-success, .blue-grey.toast-info {
+  background-color: #eceff1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-grey-text.text-lighten-5 {
+  color: #eceff1 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue-grey.lighten-4 {
+  background-color: #cfd8dc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-grey-text.text-lighten-4 {
+  color: #cfd8dc !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue-grey.lighten-3 {
+  background-color: #b0bec5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-grey-text.text-lighten-3 {
+  color: #b0bec5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue-grey.lighten-2 {
+  background-color: #90a4ae !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-grey-text.text-lighten-2 {
+  color: #90a4ae !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue-grey.lighten-1 {
+  background-color: #78909c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-grey-text.text-lighten-1 {
+  color: #78909c !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue-grey.darken-1 {
+  background-color: #546e7a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-grey-text.text-darken-1 {
+  color: #546e7a !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue-grey.darken-2 {
+  background-color: #455a64 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-grey-text.text-darken-2 {
+  color: #455a64 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue-grey.darken-3 {
+  background-color: #37474f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-grey-text.text-darken-3 {
+  color: #37474f !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.blue-grey.darken-4 {
+  background-color: #263238 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.blue-grey-text.text-darken-4, .blue-grey-text.toast-primary, .blue-grey-text.toast-secondary, .blue-grey-text.toast-danger, .blue-grey-text.toast-warning, .blue-grey-text.toast-success, .blue-grey-text.toast-info, .blue-grey-text.material-icons.primary, .blue-grey-text.material-icons.secondary, .blue-grey-text.material-icons.danger, .blue-grey-text.material-icons.warning, .blue-grey-text.material-icons.success, .blue-grey-text.material-icons.info {
+  color: #263238 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003370}}
+.grey {
+  background-color: #9e9e9e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003373}}
+.grey-text {
+  color: #9e9e9e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.grey.lighten-5, .grey.toast-primary, .grey.toast-secondary, .grey.toast-danger, .grey.toast-warning, .grey.toast-success, .grey.toast-info {
+  background-color: #fafafa !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.grey-text.text-lighten-5 {
+  color: #fafafa !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.grey.lighten-4 {
+  background-color: #f5f5f5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.grey-text.text-lighten-4 {
+  color: #f5f5f5 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.grey.lighten-3 {
+  background-color: #eeeeee !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.grey-text.text-lighten-3 {
+  color: #eeeeee !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.grey.lighten-2 {
+  background-color: #e0e0e0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.grey-text.text-lighten-2 {
+  color: #e0e0e0 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.grey.lighten-1 {
+  background-color: #bdbdbd !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.grey-text.text-lighten-1 {
+  color: #bdbdbd !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.grey.darken-1 {
+  background-color: #757575 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.grey-text.text-darken-1 {
+  color: #757575 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.grey.darken-2 {
+  background-color: #616161 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.grey-text.text-darken-2 {
+  color: #616161 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.grey.darken-3 {
+  background-color: #424242 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.grey-text.text-darken-3 {
+  color: #424242 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003378}}
+.grey.darken-4 {
+  background-color: #212121 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003381}}
+.grey-text.text-darken-4, .grey-text.toast-primary, .grey-text.toast-secondary, .grey-text.toast-danger, .grey-text.toast-warning, .grey-text.toast-success, .grey-text.toast-info, .grey-text.material-icons.primary, .grey-text.material-icons.secondary, .grey-text.material-icons.danger, .grey-text.material-icons.warning, .grey-text.material-icons.success, .grey-text.material-icons.info {
+  color: #212121 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003390}}
+.black {
+  background-color: #000000 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003393}}
+.black-text {
+  color: #000000 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003390}}
+.white {
+  background-color: #FFFFFF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003393}}
+.white-text {
+  color: #FFFFFF !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003390}}
+.transparent {
+  background-color: transparent !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tom\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_color\.scss}line{font-family:\00003393}}
+.transparent-text {
+  color: transparent !important;
+}
+
 @media -sass-debug-info{filename{}line{font-family:\0000324}}
 .toast-primary {
   border-style: solid;
