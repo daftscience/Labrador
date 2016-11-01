@@ -1,6 +1,5 @@
 from gpiozero import Button
 import git
-from time import sleep
 from subprocess import Popen, PIPE
 import uinput
 
@@ -40,11 +39,9 @@ class GPIO_HANDLER:
         cls.GIT.pull()
         # print("Rebuilding CSS")
         # cls.rebuild_css()
-        sleep(3)
         print("restarting Services")
         cls.restart_supervisor()
         cls.refresh()
-        sleep(20)
         print("refreshing")
         cls.refresh()
 
