@@ -6,7 +6,7 @@ css = Bundle(
     'scss/theme.scss',
     'scss/material_theme.scss',
     filters='scss',
-    depends='**/*.scss',
+    depends='scss/*.scss',
     output='css/common.css',
 )
 

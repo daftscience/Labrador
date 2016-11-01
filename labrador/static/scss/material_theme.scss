@@ -1,5 +1,6 @@
-$card-padding: 0;
 
+@import './materialize/sass/components/_color.scss';
+@import '../scss/_variables.scss';
 @import './materialize/sass/materialize.scss';
 @import './font-awesome/scss/font-awesome.scss';
 // @import './Materialize/sass/components/_color.scss';
