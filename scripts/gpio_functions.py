@@ -20,6 +20,7 @@ class GPIO_HANDLER:
 
     @classmethod
     def restart_supervisor(cls):
+        _process = Popen(['supervisorctl', 'reread'], stdout=PIPE)
         _process = Popen(['supervisorctl', 'reload'], stdout=PIPE)
         output, error = _process.communicate()
 
