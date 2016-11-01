@@ -22,6 +22,3 @@ js = Bundle(
 assets = Environment()
 assets.register('js_all', js)
 assets.register('css_all', css)
-assets.register(
-    'material-icons',
-    'assets/material-design-icons/iconfont/material-icons.css')
