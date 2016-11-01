@@ -50,6 +50,7 @@ if __name__ == '__main__':
     update_btn.when_released = GPIO_HANDLER.refresh
 
     while True:
+        sleep(100)
         pass
 
 
