@@ -3,14 +3,10 @@
 from flask_assets import Bundle, Environment
 
 css = Bundle(
-    Bundle(
-        'scss/theme.scss',
-        'scss/material_theme.scss',
-        filters='scss',
-        depends='**/*.scss',
-        output="css/material_theme.css"
-    ),
-    'libs/material-design-icons/iconfont/material-icons.css',
+    'scss/theme.scss',
+    'scss/material_theme.scss',
+    filters='scss',
+    depends='**/*.scss',
     output='css/common.css',
 )
 
@@ -26,3 +22,6 @@ js = Bundle(
 assets = Environment()
 assets.register('js_all', js)
 assets.register('css_all', css)
+assets.register(
+    'material-icons',
+    'assets/material-design-icons/iconfont/material-icons.css')
