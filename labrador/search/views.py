@@ -31,4 +31,4 @@ def home():
             return redirect(redirect_url)
         else:
             flash_errors(form)
-    return render_template('search/home.html', form=form, page="search")
+    return render_template('search/home.html', form=form, page="search", left="", right="settings")

@@ -7532,8 +7532,8 @@ nav {
   color: #fff;
   background-color: #ee6e73;
   width: 100%;
-  height: 1rem;
-  line-height: 1rem;
+  height: 1.5rem;
+  line-height: 1.5rem;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/tperr005\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_navbar\.scss}line{font-family:\000039}}
 nav a {
@@ -7545,8 +7545,8 @@ nav [class^="mdi-"], nav [class*="mdi-"],
 nav i.material-icons {
   display: block;
   font-size: 2rem;
-  height: 1rem;
-  line-height: 1rem;
+  height: 1.5rem;
+  line-height: 1.5rem;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/tperr005\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_navbar\.scss}line{font-family:\0000320}}
 nav .nav-wrapper {
@@ -7564,13 +7564,13 @@ nav .button-collapse {
   float: left;
   position: relative;
   z-index: 1;
-  height: 1rem;
+  height: 1.5rem;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/tperr005\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_navbar\.scss}line{font-family:\0000337}}
 nav .button-collapse i {
   font-size: 2.7rem;
-  height: 1rem;
-  line-height: 1rem;
+  height: 1.5rem;
+  line-height: 1.5rem;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/tperr005\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_navbar\.scss}line{font-family:\0000346}}
 nav .brand-logo {
@@ -7699,7 +7699,7 @@ nav .input-field label.active {
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/tperr005\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_navbar\.scss}line{font-family:\00003165}}
 .navbar-fixed {
   position: relative;
-  height: 1rem;
+  height: 1.5rem;
   z-index: 998;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/tperr005\/Labrador\/labrador\/static\/libs\/materialize\/sass\/components\/_navbar\.scss}line{font-family:\00003170}}

@@ -51,6 +51,13 @@
 {% assets "js_all" %}
     <script type="text/javascript" src="{{ ASSET_URL }}"></script>
 {% endassets %}
+
+<script type="text/javascript">
+  var current_page="{{ page }}";
+  var left_page="{{ left }}";
+  var right_page="{{ right }}";
+</script>
+
 {% block js %}{% endblock %}
 <!-- end scripts -->
 {% endblock %}

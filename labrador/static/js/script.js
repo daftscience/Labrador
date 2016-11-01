@@ -1,7 +1,11 @@
 (function($, window) {
       $("body").swipe( {
         swipe:function(event, direction, distance, duration, fingerCount, fingerData) {
-          $("#test").text("You swiped " + direction );
+          if(direction == 'left'){
+            window.location.href = './' + left_page;
+          }else if(direction == 'right'){
+            window.location.href = './' + right_page;
+          }
         },
          threshold:0
       });
